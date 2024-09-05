@@ -16,4 +16,4 @@ while (k < i) {
   sum = sum + k;
 }
 
-console.log(`O valor da SOMA é: ${sum}`);
+console.log(`O valor da SOMA é: ${sum}`); // O valor da SOMA é: 91
