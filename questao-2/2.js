@@ -1,6 +1,6 @@
 // 2) Escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
-function verificaFib(num) {
+function checkNumFib(num) {
   let inputNum = document.getElementById("inputNum");
   num = parseInt(inputNum.value);
 
